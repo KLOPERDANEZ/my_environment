@@ -1,0 +1,202 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/work/eta-calc-bus/eta-calc/Projects/Source/Eta_Calc.cpp" timestamp="1539059461518">
+        <mark key="[" line="139" column="54" />
+        <mark key="]" line="139" column="53" />
+        <mark key="^" line="139" column="53" />
+        <mark key="." line="139" column="53" />
+      </file>
+      <file name="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionReader.cpp" timestamp="1540960034611">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/feature-carrouting-dev/carrouting-dev/carrouting/Projects/CarRouting_Core/GraphEdgeInfo.h" timestamp="1535619094039">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="21" />
+      </file>
+      <file name="/a.dummy" timestamp="1540901387477">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/Eta_Actualizer.cpp" timestamp="1540902373537">
+        <mark key="'" line="79" column="12" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionReader.h" timestamp="1540959849800">
+        <mark key="'" line="20" column="14" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.cpp" timestamp="1540902117212">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/feature-carrouting-dev/carrouting-dev/carrouting/Projects/CarRouting_Core/ISearchInfoAccessor.h" timestamp="1535619101637">
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/eta-dev/ctx/Projects/Ctx_TestUtils/Source/JsonWriters/ResultJsonWriter.cpp" timestamp="1540901408104">
+        <mark key="'" line="17" column="96" />
+      </file>
+      <file name="/fragment.mm" timestamp="1537265426652">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/feature-carrouting-dev/carrouting-dev/carrouting/Projects/CarRouting_Core/src/SearchAgent.cpp" timestamp="1535619025534">
+        <mark key="[" line="221" column="51" />
+        <mark key="]" line="221" column="50" />
+        <mark key="." line="221" column="50" />
+        <mark key="^" line="221" column="50" />
+      </file>
+      <file name="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" timestamp="1540959837512">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/eta-dev/ctx/Projects/Ctx_TestUtils/Source/JsonWriters/ScheduleJsonWriter.cpp" timestamp="1540901042111" />
+      <file name="$USER_HOME$/work/eta-dev/ctx/Projects/Ctx_TestUtils/Source/JsonWriters/ResultJsonWriter.h" timestamp="1540901425935">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/precalc/Projects/PreCalc_Ctx/Source/CtxResultWriter.cpp" timestamp="1537265588727">
+        <mark key="[" line="65" column="63" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="24" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="14" column="6" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="13" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="10" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="7" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="5" column="25" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="18" column="69" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="17" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="28" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="15" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="3" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="4" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="17" column="96" filename="$USER_HOME$/work/eta-dev/ctx/Projects/Ctx_TestUtils/Source/JsonWriters/ResultJsonWriter.cpp" />
+      <jump line="20" column="48" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.h" />
+      <jump line="15" column="1" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionWriter.cpp" />
+      <jump line="117" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/Eta_Actualizer.cpp" />
+      <jump line="70" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/Eta_Actualizer.cpp" />
+      <jump line="62" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/Eta_Actualizer.cpp" />
+      <jump line="46" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/Eta_Actualizer.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/Eta_Actualizer.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/Eta_Actualizer.cpp" />
+      <jump line="15" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/Eta_Actualizer.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/Eta_Actualizer.cpp" />
+      <jump line="108" column="41" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/Eta_Actualizer.cpp" />
+      <jump line="79" column="12" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/Eta_Actualizer.cpp" />
+      <jump line="12" column="28" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionReader.h" />
+      <jump line="16" column="33" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionReader.h" />
+      <jump line="24" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionReader.h" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionReader.h" />
+      <jump line="19" column="14" filename="$USER_HOME$/work/eta-dev/eta/Projects/Eta_Actualizer/Source/ActualPositionReader.h" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>actual_position</text>
+      </register>
+      <register name="/" type="4">
+        <text>ActualPosition</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGpzb25jcHAvanNvbi92YWx1ZS5oPgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXZvaWQgV3JpdGUoY29uc3QgQWN0dWFsUG9zaXRpb24mIGFjdHVhbF9wb3NpdGlvbiwgY29uc3Qgc3RkOjpzdHJpbmcmIGZpbGVfbmFtZSk7CgoJdm9pZCBXcml0ZShjb25zdCBBY3R1YWxQb3NpdGlvbiYgYWN0dWFsX3Bvc2l0aW9uLCBzdGQ6Om9zdHJlYW0mIHN0cmVhbSk7CgoJdm9pZCBXcml0ZShjb25zdCBBY3R1YWxQb3NpdGlvbiYgYWN0dWFsX3Bvc2l0aW9uLCBKc29uOjpWYWx1ZSYgcmVzdWx0X2pzb24pOwoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cn0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ewoKfQoKdm9pZCBFdGE6OkFjdHVhbDo6QWN0dWFsUG9zaXRpb25Xcml0ZXI6OldyaXRlKGNvbnN0IEV0YTo6QWN0dWFsOjpBY3R1YWxQb3NpdGlvbiYgYWN0dWFsX3Bvc2l0aW9uLAoJCQkJCQkJCQkJCSAgY29uc3Qgc3RkOjpzdHJpbmcmIGZpbGVfbmFtZSkKewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dm9pZApFdGE6OkFjdHVhbDo6QWN0dWFsUG9zaXRpb25Xcml0ZXI6OldyaXRlKGNvbnN0IEV0YTo6QWN0dWFsOjpBY3R1YWxQb3NpdGlvbiYgYWN0dWFsX3Bvc2l0aW9uLCBKc29uOjpWYWx1ZSYgcmVzdWx0X2pzb24pCnsKCn0KCnZvaWQgRXRhOjpBY3R1YWw6OkFjdHVhbFBvc2l0aW9uV3JpdGVyOjpXcml0ZShjb25zdCBFdGE6OkFjdHVhbDo6QWN0dWFsUG9zaXRpb24mIGFjdHVhbF9wb3NpdGlvbiwgc3RkOjpvc3RyZWFtJiBzdHJlYW0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGpzb25jcHAvanNvbi92YWx1ZS5oPgoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uL3RoaXJkcGFydHkvU3JjL2pzb25jcHAvaW5jbHVkZS9qc29uL3ZhbHVlLmgiCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAxMDE4NTEzLi4uIFtUUkFGRklDLTU3MDhdINC/0YDQvtC60LjQvdGD0Lsg0YHQvtGF0YDQsNC90LXQvdC40LUgei3Rg9GA0L7QstC90Y8g0Lgg0YHRgtC40LvRjyDQtNC70Y8g0YHRgtGA0YPQutGC0YPRgNGLIHJzZXQK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>ActualPosition</last-search>
+      <last-offset />
+      <last-pattern>ActualPosition</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>ActualPosition</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>ActualPosition</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

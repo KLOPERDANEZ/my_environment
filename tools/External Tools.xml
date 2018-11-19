@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="copy_executor" description="copy execute file to deploy target" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cp" />
+      <option name="PARAMETERS" value="./Eta_Actualizer /home/m.karpunkin/work/track_matcher_work" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/work/eta-dev/out/Debug/cmake-build-debug" />
+    </exec>
+  </tool>
+  <tool name="copy_executor_viewer" description="copy execute file to deploy target" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cp" />
+      <option name="PARAMETERS" value="./Eta_Viewer /home/m.karpunkin/work/track_matcher_work" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/work/eta-dev/out/Debug/cmake-build-debug" />
+    </exec>
+  </tool>
+</toolSet>
